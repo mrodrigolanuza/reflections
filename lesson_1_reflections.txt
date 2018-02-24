@@ -1,0 +1,35 @@
+﻿How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+En mi opinión, el ver comparativamente las diferencias de dos ficheros, no solamente ayuda a comprobar posible errores introducidos, sino a verificar los cambios efectuados desde una versión anterior.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Visualizar la evolución de un fichero a lo largo de su historia, permite hacerse una idea de las características añadidas secuencialmetne.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Tener el control de la realización de los commits, permite decidir cuando una determinada versión del fichero ha alcanzado el objetivo definido, y por tanto, confirmar los cambios en ese momento. 
+    De esta manera, el comparar commits permite visualizar los avances llevados a cabo. 
+    Realizar commits manualmente permite el agrupar cambios que están relacionados de manera lógica.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    En mi opinión, Git está pensado para trabajar por proyectos, en la que un nuevo cambio implica el trabajar con varios ficheros al mismo tiempo. No ocurre lo mismo con Google Docs, donde el trabajo se realiza en un fichero de manera independiente.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Mediante git log, es posilbe ver los identificadores y las descripciones de los commits, mientras que con git diff, podemos visualizar las líneas insertadas y borradas entre dos commits.    
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Tienes la confianza que puedes volver a la versión anterior funcional sin problemas.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Para crear ficheros y llevar el control de su historia, así como realizar trabajos en paralelo sobre los mismos para posteriormente, y si interesa unir todos cambios en un único fichero centralizado.

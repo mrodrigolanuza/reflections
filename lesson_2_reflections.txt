@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Al inicializar un repositorio, simplemente estamos creando los metadatos necesarios para indicarle a Git que queremos llevar el control de versiones en dicha carpeta.
+	Necesitamos hacerlo para que Git haga esta gestión de versiones por nosotros.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	La staging area es el lugar donde indicamos el fichero o conjunto de ficheros que serán incorporados en el siguiente commit, los cuales contendrán cambios logicamente relacionados 
+	y que resumiremos en la descripción asociada al commit. 
+	La staging area creo que ofrece un paso intermedio para decidir si efectivamente los cambios insertados los confirmamos o los revertimos finalmente, evitando commits inecesarios.
+
