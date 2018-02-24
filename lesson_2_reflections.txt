@@ -14,3 +14,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 	La staging area es posible utilizarla para cargar los ficheros que contienen cambios relacionados lógicamente. De esta manera se pueden generar commits agrupando ficheros que 
 	contienen cambios que estan relacionados.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Las ramas son muy útiles cuando queremos desarrollar código experimental fuera de la aplicación principal, o cuando queremos desarrollar una funcionalidad paralela de la aplicación principal.
