@@ -17,3 +17,14 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	Las ramas son muy útiles cuando queremos desarrollar código experimental fuera de la aplicación principal, o cuando queremos desarrollar una funcionalidad paralela de la aplicación principal.
+
+How do the diagrams help you visualize the branch structure?
+
+	Los diagrama s permiten hacerse una idea de la estructura de ramas existentes, y decidir cual utilizar para realizar nuevos cambios. Además permite tener más clara el punto desde el cual queremos
+	crear una nueva rama para continuar de una manera distinta el desarrollo.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Las ventajas es que ahorra mucho trabajo en cuanto a la combinación de dos ramas, dejando solamente los verdaderos casos conflictivos para que sea el/los usuario/s quienes resuelvan la situación.
+	Las desventajas no termino de verlas.
+
