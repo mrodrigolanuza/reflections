@@ -19,7 +19,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Al hacer una pull del repositorio remoto, lo que ocurre es que se realiza un merge de los cambios insertados por el resto de contribuidores al repositorio remoto base,
+    con los cambios insertados localmente, estandon en disposición de poder hacer un push y publicar todo el conjunto para que esté a disposición del equipo.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
