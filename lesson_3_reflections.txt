@@ -31,4 +31,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Realizar cambios en una rama diferente a master, para luego subir dicha rama a Github y lanzar un pull request, permite en un entorno colaborativo discutir sobre los cambios que se desean incorporar entre los 
+    diferentes participantes del equipo, antes de hacerlo definitivamente. (Cambios revisados y aprobados).
+    Trabajar en la rama master es útil cuando estás solo trabajando en el proyecto.
